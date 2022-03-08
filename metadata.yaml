@@ -1,0 +1,45 @@
+_repo: The-Irish-Nuns-at-Ypres-An-Episode-of-the-War_67512
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Redmond, John Edward
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '39620'
+    url: http://www.gutenberg.org/2009/agents/39620
+    wikipedia: http://en.wikipedia.org/wiki/John_Redmond
+creator:
+  author:
+    agent_name: Columban, Dame M.
+    gutenberg_agent_id: '54303'
+    url: http://www.gutenberg.org/2009/agents/54303
+  editor:
+    agent_name: O'Brien, R. Barry (Richard Barry)
+    aliases:
+    - O'Brien, Richard Barry
+    - Historicus
+    birthdate: 1847
+    deathdate: 1918
+    gutenberg_agent_id: '6274'
+    url: http://www.gutenberg.org/2009/agents/6274
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Barry_O%27Brien
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67512'
+language: en
+pgterms:marc904: https://archive.org/details/irishnunsatypres00colurich/page/n7/mode/2up
+pgterms:marc905: 20200706083419columban
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :Smith, Elder & Co.,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Irish Nuns at Ypres: An Episode of the War'
+url: http://www.gutenberg.org/ebooks/67512
