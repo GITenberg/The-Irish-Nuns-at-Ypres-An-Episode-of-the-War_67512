@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '39620'
     url: http://www.gutenberg.org/2009/agents/39620
     wikipedia: http://en.wikipedia.org/wiki/John_Redmond
+covers:
+- cover_type: archival
+  image_path: 67512-h/images/cover.jpg
 creator:
   author:
     agent_name: Columban, Dame M.
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6274
     wikipedia: https://en.wikipedia.org/wiki/Richard_Barry_O%27Brien
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67512#The-Irish-Nuns-at-Ypres-An-Episode-of-the-War
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67512'
